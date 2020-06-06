@@ -1,4 +1,4 @@
-# Dog-vs-Cat
+# Dog-vs-Cat in pytorch
 Differentiating between a dog and a cat.
 
 Dog vs cat GPU is the FNN i made with very limited hidden layers, i got 3 hidden layers, it is basically bruteforcing right now, i am new at this, so the accuracy is around 50%, which is basically nothing !
